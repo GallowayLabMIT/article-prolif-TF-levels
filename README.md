@@ -10,9 +10,8 @@
 
 | Item                     | DOI                       |
 | ------------------------ |:-------------------------:|
-| Article                              | [![Article DOI](TBD-green)](TBD)     |
-| Dataset                              | [![Dataset DOI](10.5281/zenodo.14743917-blue)](https://doi.org/10.5281/zenodo.14743917)      |
-
+| Article                              | [![Dataset DOI](https://img.shields.io/badge/Article_DOI-TBD-blue)](TBD)      |
+| Dataset                              | [![Dataset DOI](https://img.shields.io/badge/Dataset_DOI-10.5281/zenodo.14743917-blue)](https://doi.org/10.5281/zenodo.14743917)       |
 
 
 
