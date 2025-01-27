@@ -10,9 +10,10 @@
 
 | Item                     | DOI                       |
 | ------------------------ |:-------------------------:|
-| Article (preprint)                   | [![Article DOI](TBD-green)](TBD)     |
-| Software (this repository)           | [![Software DOI](TBD-blue)](TBD)     |
-| Dataset for article figures          | [![Dataset DOI](TBD-blue)](TBD)      |
+| Article                              | [![Article DOI](TBD-green)](TBD)     |
+| Dataset                              | [![Dataset DOI](10.5281/zenodo.14743917-blue)](https://doi.org/10.5281/zenodo.14743917)      |
+
+
 
 
 ## Setting data directory
