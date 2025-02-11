@@ -2,11 +2,8 @@
 [<img src="https://img.shields.io/badge/code_license-MIT-green">](./LICENSE)
 [<img src="https://img.shields.io/badge/text_license-CC--BY--4.0-green">](https://creativecommons.org/licenses/by/4.0/)
 
-<!-- | Item          | DOI           |
-| ------------- |:-------------:|
-| Article (preprint)       | [![Article DOI](https://img.shields.io/badge/Article_DOI-10.1101/2022.04.20.488937-green)](https://doi.org/10.1101/2022.04.20.488937)     |
-| Software (this repository)      | [![Software DOI](https://img.shields.io/badge/Software_DOI-10.5281/zenodo.7054395-blue)](https://doi.org/10.5281/zenodo.7054395)                                                              |
-| Dataset for article figures     | [![Dataset DOI](https://img.shields.io/badge/Dataset_DOI-10.5281/zenodo.7041641-blue)](https://doi.org/10.5281/zenodo.7041641)     | -->
+Pre-publication release:
+[![DOI](https://zenodo.org/badge/922264637.svg)](https://doi.org/10.5281/zenodo.14851627)
 
 | Item                     | DOI                       |
 | ------------------------ |:-------------------------:|
